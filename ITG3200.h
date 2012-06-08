@@ -21,7 +21,7 @@
  CONSTRUCTORS:
     ITG3200();
  
- PUBLIC METHODS:
+ METHODS:
     void initialize();
         Initializes the device. Must be done before device can be used.
         Note: A 4 second (20 sample) calibration is done with this
